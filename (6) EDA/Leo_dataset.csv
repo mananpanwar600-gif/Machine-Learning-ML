@@ -1,0 +1,301 @@
+Age,Salary,City (Nominal),Education_Level (Ordinal),Target
+27.0,38146.0,Mumbai,High School,0
+25.0,46011.0,,Bachelor,0
+29.0,57704.0,Bangalore,Bachelor,0
+24.0,56768.0,Bangalore,Bachelor,0
+27.0,55186.0,Delhi,Master,0
+23.0,43753.0,Delhi,,0
+42.0,57519.0,Delhi,Bachelor,0
+30.0,59769.0,Chennai,High School,0
+26.0,43046.0,Bangalore,Master,0
+31.0,49584.0,Bangalore,High School,0
+29.0,70204.0,Delhi,Bachelor,0
+29.0,42601.0,,High School,0
+34.0,32949.0,Chennai,High School,0
+35.0,63829.0,Delhi,,0
+27.0,61366.0,Delhi,Master,0
+27.0,45430.0,Delhi,Master,0
+28.0,48870.0,Mumbai,Bachelor,0
+16.0,37751.0,Mumbai,High School,0
+21.0,50890.0,Mumbai,High School,0
+38.0,61659.0,Delhi,High School,0
+40.0,44574.0,Bangalore,Bachelor,0
+29.0,58771.0,Delhi,Master,0
+33.0,54637.0,Delhi,Master,0
+32.0,55778.0,Mumbai,High School,0
+48.0,45157.0,Mumbai,,0
+37.0,46454.0,Chennai,Master,0
+29.0,31532.0,Delhi,Bachelor,0
+24.0,44333.0,Mumbai,Bachelor,0
+20.0,61635.0,Bangalore,Bachelor,0
+,40707.0,Delhi,High School,0
+25.0,42197.0,Bangalore,Bachelor,0
+21.0,56402.0,Delhi,Master,0
+26.0,54028.0,Delhi,High School,0
+24.0,56899.0,,High School,0
+40.0,38368.0,,High School,1
+35.0,75641.0,Chennai,High School,0
+30.0,37842.0,Mumbai,PhD,0
+39.0,51542.0,Delhi,Master,0
+30.0,48413.0,Bangalore,Bachelor,0
+25.0,38134.0,Mumbai,High School,0
+39.0,46298.0,Delhi,Bachelor,0
+33.0,50233.0,Mumbai,Bachelor,0
+24.0,43500.0,Delhi,High School,0
+29.0,59372.0,,Bachelor,0
+25.0,48384.0,Delhi,Bachelor,0
+22.0,36587.0,Bangalore,Bachelor,0
+36.0,35739.0,Mumbai,Bachelor,0
+41.0,56062.0,Mumbai,High School,0
+22.0,35132.0,Mumbai,Bachelor,0
+33.0,53164.0,Delhi,Bachelor,0
+26.0,54447.0,,Bachelor,0
+27.0,40046.0,Chennai,PhD,0
+,58907.0,,Master,0
+25.0,32822.0,Chennai,High School,0
+30.0,52965.0,Bangalore,High School,0
+25.0,49591.0,,Bachelor,0
+32.0,48810.0,Delhi,High School,0
+30.0,38221.0,Delhi,Bachelor,1
+29.0,40630.0,Delhi,PhD,0
+25.0,66188.0,Mumbai,Bachelor,0
+27.0,62152.0,Mumbai,Bachelor,0
+35.0,57421.0,Delhi,Bachelor,0
+33.0,59398.0,Chennai,Bachelor,1
+24.0,58460.0,Mumbai,Bachelor,0
+31.0,46766.0,Delhi,PhD,0
+35.0,50476.0,Mumbai,Bachelor,0
+20.0,35275.0,Delhi,,0
+33.0,49103.0,Chennai,PhD,0
+26.0,61834.0,Delhi,High School,0
+33.0,43393.0,,High School,0
+25.0,60231.0,Chennai,High School,0
+19.0,50916.0,Delhi,High School,1
+20.0,36146.0,Delhi,High School,0
+30.0,38927.0,Chennai,Master,0
+32.0,59193.0,Bangalore,High School,0
+25.0,55525.0,Bangalore,High School,1
+34.0,51018.0,Chennai,Master,0
+20.0,47260.0,Delhi,High School,0
+30.0,52106.0,Mumbai,Master,0
+23.0,58803.0,Delhi,High School,0
+26.0,64759.0,Chennai,High School,0
+30.0,65237.0,Bangalore,Master,0
+25.0,53720.0,Mumbai,Bachelor,0
+28.0,48281.0,Delhi,PhD,0
+36.0,51462.0,Mumbai,Master,0
+27.0,55221.0,Mumbai,Master,0
+35.0,55181.0,Bangalore,High School,0
+23.0,63080.0,Bangalore,High School,0
+33.0,71158.0,Chennai,Master,0
+39.0,47947.0,Mumbai,Master,0
+15.0,71559.0,Delhi,,0
+25.0,61722.0,Bangalore,Bachelor,0
+33.0,48992.0,Chennai,Bachelor,0
+29.0,64986.0,Bangalore,Master,0
+32.0,66856.0,Chennai,High School,0
+26.0,45397.0,Mumbai,PhD,0
+31.0,67322.0,Mumbai,PhD,0
+29.0,60751.0,Mumbai,Bachelor,0
+37.0,73686.0,Delhi,Master,1
+,45760.0,Delhi,Master,0
+32.0,46466.0,Delhi,High School,0
+28.0,29733.0,Bangalore,PhD,0
+27.0,55712.0,Mumbai,Bachelor,0
+27.0,53753.0,Mumbai,Master,0
+,44370.0,,High School,0
+27.0,49181.0,Delhi,PhD,0
+32.0,36888.0,Mumbai,Bachelor,0
+42.0,61984.0,Chennai,High School,0
+35.0,45103.0,Delhi,PhD,0
+28.0,80940.0,Delhi,High School,0
+37.0,48244.0,Delhi,High School,0
+28.0,42404.0,Delhi,,0
+18.0,45877.0,,,0
+24.0,35880.0,Chennai,Bachelor,0
+19.0,54823.0,Bangalore,Bachelor,0
+28.0,45801.0,Chennai,Bachelor,0
+30.0,61313.0,Chennai,High School,0
+40.0,47253.0,Delhi,High School,0
+32.0,63844.0,Chennai,Master,0
+29.0,57575.0,Mumbai,Master,1
+35.0,50286.0,Chennai,Master,0
+,65802.0,Chennai,Master,1
+31.0,59523.0,Mumbai,High School,0
+35.0,79462.0,Delhi,Bachelor,0
+21.0,45905.0,Delhi,High School,0
+37.0,50766.0,Mumbai,Bachelor,0
+32.0,65687.0,Chennai,Bachelor,0
+28.0,34565.0,Chennai,PhD,0
+34.0,63169.0,Delhi,Bachelor,0
+44.0,54393.0,Mumbai,High School,0
+31.0,41118.0,Mumbai,High School,1
+31.0,36370.0,Delhi,Master,0
+27.0,43275.0,Delhi,Bachelor,0
+25.0,27152.0,Mumbai,High School,0
+35.0,45105.0,,High School,0
+25.0,56226.0,Mumbai,Master,0
+30.0,45237.0,Mumbai,High School,0
+27.0,63883.0,Bangalore,Master,0
+33.0,66599.0,Mumbai,Master,0
+32.0,62756.0,,High School,0
+36.0,52306.0,,High School,0
+27.0,26753.0,Delhi,,1
+28.0,42963.0,Mumbai,Bachelor,0
+24.0,48580.0,Mumbai,Bachelor,0
+27.0,41061.0,Delhi,Master,0
+32.0,48605.0,Delhi,PhD,0
+35.0,66101.0,Bangalore,,0
+24.0,33542.0,Mumbai,Master,0
+35.0,68117.0,Delhi,Bachelor,0
+38.0,58847.0,Delhi,High School,0
+32.0,52682.0,,Master,0
+41.0,42864.0,Delhi,Bachelor,0
+25.0,41260.0,Delhi,Bachelor,0
+23.0,33738.0,Mumbai,PhD,0
+19.0,67168.0,,High School,0
+39.0,65376.0,Delhi,Bachelor,0
+34.0,35937.0,Bangalore,High School,0
+30.0,44474.0,Chennai,Bachelor,0
+32.0,54331.0,Delhi,High School,0
+23.0,47005.0,Bangalore,High School,0
+45.0,30813.0,Mumbai,High School,0
+31.0,43422.0,Bangalore,Bachelor,0
+31.0,69510.0,Bangalore,Master,0
+34.0,44100.0,Mumbai,Bachelor,0
+33.0,48365.0,Delhi,,0
+31.0,38548.0,Chennai,Bachelor,0
+25.0,55878.0,Mumbai,High School,0
+33.0,51152.0,Delhi,PhD,0
+41.0,42580.0,Delhi,High School,0
+38.0,36953.0,Bangalore,,0
+40.0,64045.0,Bangalore,High School,0
+27.0,33945.0,Delhi,,0
+24.0,55038.0,Mumbai,High School,0
+29.0,28461.0,Delhi,PhD,0
+,57072.0,Bangalore,Bachelor,0
+37.0,59703.0,Delhi,,0
+20.0,60948.0,Bangalore,High School,0
+39.0,48388.0,Mumbai,Bachelor,0
+29.0,65840.0,,,0
+27.0,73078.0,Delhi,Bachelor,0
+24.0,46784.0,Mumbai,Bachelor,0
+20.0,45490.0,Delhi,Master,1
+35.0,51492.0,,Bachelor,0
+30.0,45223.0,Chennai,Bachelor,0
+22.0,43761.0,Delhi,Bachelor,0
+,44633.0,Bangalore,PhD,0
+28.0,67158.0,Chennai,High School,0
+40.0,57719.0,Bangalore,High School,0
+28.0,45191.0,Mumbai,,0
+21.0,25449.0,Delhi,PhD,0
+29.0,34555.0,Delhi,Bachelor,0
+28.0,55034.0,Chennai,Bachelor,0
+14.0,28784.0,,High School,0
+30.0,52930.0,Bangalore,High School,0
+29.0,39344.0,Mumbai,Bachelor,0
+34.0,50918.0,Mumbai,Bachelor,0
+41.0,50639.0,Bangalore,Bachelor,0
+37.0,51206.0,Chennai,High School,0
+28.0,46056.0,Chennai,,0
+23.0,45727.0,Chennai,,0
+45.0,42792.0,Bangalore,Master,0
+30.0,54839.0,Delhi,Bachelor,0
+30.0,58052.0,Delhi,High School,0
+30.0,37810.0,Chennai,Master,0
+31.0,49484.0,Bangalore,Master,0
+29.0,51966.0,Delhi,High School,0
+27.0,51838.0,Delhi,PhD,0
+27.0,51668.0,Bangalore,Master,0
+30.0,45980.0,Delhi,PhD,0
+27.0,52790.0,Delhi,Master,0
+26.0,56180.0,Mumbai,Bachelor,1
+31.0,51410.0,Bangalore,Bachelor,0
+28.0,55059.0,Bangalore,PhD,0
+39.0,59904.0,Delhi,PhD,0
+14.0,31491.0,Bangalore,High School,1
+37.0,59435.0,Delhi,High School,0
+37.0,53424.0,Mumbai,Bachelor,0
+18.0,38884.0,Bangalore,Master,0
+28.0,58025.0,Bangalore,,1
+,46017.0,Chennai,High School,0
+22.0,47380.0,Bangalore,Bachelor,0
+,44923.0,Bangalore,Bachelor,0
+23.0,53024.0,Delhi,,0
+41.0,42146.0,Mumbai,Master,0
+36.0,59015.0,Delhi,Master,0
+38.0,48611.0,Delhi,Bachelor,0
+34.0,46358.0,,Bachelor,0
+23.0,57529.0,Mumbai,High School,0
+27.0,46804.0,Chennai,High School,0
+33.0,59482.0,Bangalore,PhD,0
+23.0,59796.0,Chennai,Master,1
+34.0,36652.0,Mumbai,,0
+29.0,61093.0,Bangalore,,0
+28.0,35380.0,Mumbai,Bachelor,0
+34.0,61716.0,Delhi,Master,0
+33.0,70284.0,Bangalore,PhD,0
+28.0,58748.0,Delhi,Master,0
+37.0,28430.0,Delhi,High School,0
+24.0,60636.0,Bangalore,Bachelor,0
+34.0,72461.0,Delhi,High School,0
+34.0,46970.0,,,0
+28.0,49653.0,,Bachelor,0
+32.0,38115.0,,High School,1
+22.0,53121.0,Mumbai,Master,1
+36.0,62692.0,Delhi,Bachelor,1
+29.0,56977.0,,Bachelor,0
+27.0,81420.0,Mumbai,High School,0
+36.0,50330.0,,Master,0
+26.0,33693.0,,Bachelor,0
+22.0,51710.0,Chennai,Master,0
+21.0,25835.0,Delhi,Bachelor,0
+34.0,44669.0,Mumbai,PhD,0
+22.0,66244.0,Chennai,Bachelor,0
+41.0,53251.0,Mumbai,Bachelor,0
+18.0,51794.0,Delhi,PhD,0
+40.0,68208.0,Bangalore,Bachelor,0
+31.0,47294.0,,High School,0
+,62618.0,Bangalore,High School,1
+27.0,51293.0,Bangalore,Master,0
+32.0,53800.0,Delhi,Bachelor,0
+30.0,37827.0,Bangalore,Master,0
+37.0,45180.0,,High School,0
+31.0,36025.0,Delhi,High School,0
+31.0,49048.0,Mumbai,High School,1
+28.0,53904.0,Chennai,Bachelor,0
+30.0,38900.0,Bangalore,Bachelor,0
+32.0,70492.0,Bangalore,Bachelor,0
+20.0,52781.0,Bangalore,Bachelor,0
+22.0,50578.0,Mumbai,PhD,0
+34.0,57697.0,Delhi,High School,0
+31.0,41711.0,Chennai,Bachelor,0
+29.0,51635.0,Chennai,Master,1
+30.0,42831.0,Chennai,Bachelor,0
+32.0,65587.0,,Bachelor,0
+27.0,39414.0,Mumbai,PhD,0
+25.0,50632.0,Mumbai,PhD,0
+31.0,53293.0,Chennai,High School,0
+24.0,53948.0,Bangalore,PhD,0
+32.0,44188.0,Bangalore,Bachelor,0
+20.0,41045.0,Chennai,High School,0
+36.0,44332.0,Chennai,Bachelor,0
+33.0,55283.0,Mumbai,,0
+32.0,48562.0,Mumbai,Bachelor,0
+36.0,57962.0,Delhi,High School,0
+40.0,54770.0,Bangalore,Bachelor,1
+36.0,27231.0,Delhi,High School,0
+19.0,52475.0,Mumbai,High School,0
+22.0,72505.0,Mumbai,High School,0
+26.0,63253.0,Delhi,High School,1
+30.0,54220.0,Bangalore,High School,0
+33.0,39406.0,Delhi,High School,0
+26.0,54776.0,Delhi,Bachelor,0
+31.0,57397.0,Chennai,High School,0
+25.0,47463.0,Mumbai,High School,0
+5.0,53167.0,Delhi,PhD,0
+95.0,250000.0,Mumbai,Bachelor,0
+120.0,300000.0,Chennai,Master,1
+-8.0,1000.0,Delhi,High School,0
+150.0,-20000.0,Bangalore,High School,0
+200.0,400000.0,Delhi,High School,0

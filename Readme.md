@@ -1,5 +1,3 @@
-git add Readme.md# DS and ML
-
 ## Project Overview
 
 This workspace is a hands-on collection of Python notebooks and examples covering data analysis, machine learning, feature engineering, database use, logging, parallel computing, and related workflows.
